@@ -1,4 +1,4 @@
-# Vineet — UX/UI & Web Designer · Portfolio
+# Vineet - UX/UI & Web Designer · Portfolio
 
 A modern, professional **dark-theme** single-page portfolio (deep navy + vibrant blue),
 with 3D hero shapes, scroll motion, image-based project cards, case-study modals,
